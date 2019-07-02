@@ -1,4 +1,6 @@
-# Python in de klas
+<img src="./img/Logo cs-certificate.jpg" style="zoom:9%"/>
+
+# Computer Science Certificate
 
 ## Voor wie is dit materiaal?
 
