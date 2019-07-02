@@ -1,6 +1,6 @@
-<img src="../../img/Logo cs-certificate.jpg" style="zoom:20%" align="right" />
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:9%"/>
 
-## Les 5 werkblad b
+## Module Nederlands Les 5 werkblad b
 
 ### Opdracht 5b-1) Voeg een keuze toe
 

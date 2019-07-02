@@ -1,10 +1,10 @@
-<img src="../../img/Logo cs-certificate.jpg" style="zoom:20%" align="right" />
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:9%"/>
 
-## Handleiding Les 2
+## Module 1: Nederlands - Handleiding Les 2
 
 ### Slides voor deze les
 
-[Slides](https://slides.com/felienne/pidk-m1-l2a#)
+[Slides](https://slides.com/vhto/nederlands2#/)
 
 ### Doelen van deze les
 
@@ -24,11 +24,11 @@ Het is wel iets om veel mee te oefenen, lln gaan het niet vanzelf toevoegen. Ook
 #### Deel a is de klassikale les
 
 Voor deel a heb je nodig:
-* [werkblad leerlingen a](https://github.com/Felienne/Python_in_de_klas/blob/master/Module-Nederlands/Les%201/pidk-m1-l2a-werkblad.md) Dit werkblad gebruiken leerlingen tijdens de klassikale les.
+* [werkblad leerlingen a](https://github.com/vhto/CS_Certificate/blob/master/Module%20Nederlands/Les%202/pidk-m1-l2a-werkblad.md) Dit werkblad gebruiken leerlingen tijdens de klassikale les.
 
 #### Deel b is het lesgedeelte achter de computer
 
-* [werkblad leerlingen b](https://github.com/Felienne/Python_in_de_klas/blob/master/Module-Nederlands/Les%201/pidk-m1-l2b-werkblad.md) Dit werkblad gebruiken leerlingen tijdens het lesgedeelte achter de computer.
+* [werkblad leerlingen b](https://github.com/vhto/CS_Certificate/blob/master/Module%20Nederlands/Les%202/pidk-m1-l2b-werkblad.md) Dit werkblad gebruiken leerlingen tijdens het lesgedeelte achter de computer.
 
 In de opdrachten van deze les:
 - oefenen lln met commentaar gebruiken

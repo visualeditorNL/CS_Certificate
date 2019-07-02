@@ -1,6 +1,6 @@
-<img src="../../img/Logo cs-certificate.jpg" style="zoom:20%" align="right" />
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:9%"/>
 
-## Les 3 werkblad a nakijkmodel
+## Module Nederlands Les 3 werkblad a nakijkmodel
 
 ### Even opfrissen!
 

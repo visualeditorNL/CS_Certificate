@@ -1,16 +1,6 @@
-<img src="../../img/Logo cs-certificate.jpg" style="zoom:20%" align="right" />
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:9%"/>
 
-## Les 5 werkblad a
-
-Todos:
-
-* nummerfoutjes
-* uitvoer is geen goed woord
-* waarom geen woorden apart in inpit()
-* regels doorstrepen is beter, takken waren niet goed ingeoefend
-### Les 5 werkblad a
-
-
+## Module Nederlands Les 5 werkblad a
 
 ### if-else
 

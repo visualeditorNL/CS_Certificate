@@ -1,6 +1,6 @@
-<img src="../../img/Logo cs-certificate.jpg" style="zoom:20%" align="right" />
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:8%"/>
 
-## Les 1 werkblad a nakijkmodel
+## Module Nederlands Les 1 werkblad a nakijkmodel
 
 ### Printen!
 
@@ -38,8 +38,6 @@ Wat er fout is aan de overige opties:
 3. Mist een aanhalingsteken achter het woord `Hallo` en mist een aanhalingsteken voor het woord `klas`
 4. Mist de aanhalingstekens om het woord `Hallo` en om het woord `klas`
 5. Gebruikt een combinatie van enkele en dubbele aanhalingstekens, dit moeten allen enkele aanhalingstekens zijn.
-
-<div style="page-break-after: always;"></div>
 
 2) 
 ```python

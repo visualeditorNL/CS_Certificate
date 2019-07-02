@@ -1,10 +1,10 @@
-<img src="../../img/Logo cs-certificate.jpg" style="zoom:20%" align="right" />
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:9%"/>
 
-## Handleiding Les 3
+## Module 1: Nederlands - Handleiding Les 3
 
 ### Slides voor deze les
 
-[Slides](https://slides.com/felienne/pidk-m1-l3a#)
+[Slides](https://slides.com/vhto/nederlands3)
 
 ### Doelen van deze les
 
@@ -34,11 +34,11 @@ Dat mag wel, maar soms denken lln dat dat een foutmelding geeft. Dat is niet zo:
 #### Deel a is de klassikale les
 
 Voor deel a heb je nodig:
-* [werkblad leerlingen a](https://github.com/Felienne/Python_in_de_klas/blob/master/Module-Nederlands/Les%201/pidk-m1-l3a-werkblad.md) Dit werkblad gebruiken leerlingen tijdens de klassikale les.
+* [werkblad leerlingen a](https://github.com/vhto/CS_Certificate/blob/master/Module%20Nederlands/Les%203/pidk-m1-l3a-werkblad.md) Dit werkblad gebruiken leerlingen tijdens de klassikale les.
 
 #### Deel b is het lesgedeelte achter de computer
 
-* [werkblad leerlingen b](pidk-m1-l3b-werkblad.md) Dit werkblad gebruiken leerlingen tijdens het lesgedeelte achter de computer.
+* [werkblad leerlingen b](https://github.com/vhto/CS_Certificate/blob/master/Module%20Nederlands/Les%203/pidk-m1-l3b-werkblad.md) Dit werkblad gebruiken leerlingen tijdens het lesgedeelte achter de computer.
 
 In de opdrachten van deze les:
 - maken lln een verhaal waar drie keer een dier in voorkomt (herhaling opdracht 5 van Les 2)

@@ -1,6 +1,6 @@
-<img src="../../img/Logo cs-certificate.jpg" style="zoom:20%" align="right" />
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:9%"/>
 
-## Les 6 werkblad b
+## Module Nederlands Les 6 werkblad b: Eindopdracht
 
 ### Opdracht 6b-1) Maak je verhaal!
 

@@ -1,6 +1,6 @@
-<img src="../../img/Logo cs-certificate.jpg" style="zoom:20%" align="right" />
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:9%">
 
-## Les 4 werkblad a nakijkmodel
+## Module Nederlands Les 4 werkblad a nakijkmodel
 
 ### Even opfrissen!
 
@@ -47,32 +47,32 @@ De bovenste regel wordt niet uitgeprint, dit is commentaar (uitgecommente code) 
 1)
 ```python
 1. dieren = ['konijn', 'biggetje']
-  ```
+```
 Op de stippellijn komt een komma
 
 
 ```python
 2. hobbies = ['dansen', 'voetballen']
-  ```
+```
 Op de stippelijnen komen: = teken, aanhalingsteken, aanhalingsteken, aanhalingsteken, aanhalingsteken
 
 ```python
 3. kleuren = ['groen', 'geel', 'blauw']
-  ```
+```
 Op de stippelijnen komen: = teken, rechte haak open, aanhalingsteken, aanhalingsteken, aanhalingsteken, aanhalingsteken, komma, aanhalingsteken, aanhalingsteken, rechte haak sluit.
 
 2)
 ```python
 1. namen = ['Jan', 'Merel', 'Samir']
-  ```
+```
 
 ```python
 2. vakken = ['Frans', 'Aardrijkskunde', 'Coderen']
-  ```
+```
 
 ```python
 3. engelse_woorden = ['dog', 'cat', 'mouse']
-  ```
+```
 
 <div style="page-break-after: always;"></div>
 
@@ -113,7 +113,7 @@ Op de stippelijnen komen: = teken, rechte haak open, aanhalingsteken, aanhalings
 ```python
 2. snoepjes = ['chocolade', 'zuurtjes', 'drop']
    print('Ik', 'hou', 'van', snoepjes[0])
-  ```
+```
 <div style="page-break-after: always;"></div>
 
 ### Foutjes bij aanwijzen

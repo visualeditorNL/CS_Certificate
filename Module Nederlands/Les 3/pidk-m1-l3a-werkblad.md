@@ -1,6 +1,6 @@
-<img src="../../img/Logo cs-certificate.jpg" style="zoom:20%" align="right" />
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:9%"/>
 
-## Les 3 werkblad a
+## Module Nederlands Les 3 werkblad a
 
 ### Variabelen
 
@@ -47,8 +47,6 @@ Schrijf de uitvoer in je schrift.
    print('klas', '1c')
    #print('hebben', 'jullie', 'er', 'zin', 'in?')
 ```
-
-<div style="page-break-after: always;"></div>
 
 2) Wat is de fout?
 
@@ -97,7 +95,7 @@ naam = 'Felienne'
 
 Schrijf deze codes over. Zet een pijltje tussen het gebruik van een variabele en zijn definitie.
 
-Voorbeeld:![image-20190206124246541](/Users/Felienne/Library/Application Support/typora-user-images/image-20190206124246541.png){ width=50% }
+Voorbeeld:![image-20190206124246541](../../img/image-20190206124246541.png){ width=50% }
 
 ```python
 1. les = 'Coderen'

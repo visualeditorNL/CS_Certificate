@@ -1,6 +1,6 @@
-<img src="../../img/Logo cs-certificate.jpg" style="zoom:20%" align="right" />
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:9%"/>
 
-## Les 1 werkblad b
+## Module Nederlands Les 1 werkblad b
 
 ### Opdracht 1b-1) Maak een repl.it account
 
@@ -23,7 +23,6 @@ Deze les wordt afgetekend als:
 - Je in onze classroom zit:
 
   - Ga naar de link die de leraar je geeft.
-
 
 ------
 

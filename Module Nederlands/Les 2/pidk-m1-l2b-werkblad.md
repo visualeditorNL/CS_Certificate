@@ -1,6 +1,6 @@
-<img src="../../img/Logo cs-certificate.jpg" style="zoom:20%" align="right" />
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:9%"/>
 
-## Les 2 werkblad b
+## Module Nederlands Les 2 werkblad b
 
 ### Opdracht 2b-1) Log in en maak een nieuw programma
 
@@ -116,10 +116,6 @@ Print eronder nu drie zinnen. Je mag de zinnen zelf bedenken.
 
 ### Opdracht 2b-5) Schijf een verhaal over een dier.
 
-TODO: Let op! deze zit ook in les 3 omdat ik m pas later heb toegevoegd. Les 3 moet hierop verderbouwen door een refactoring voor te stellen!
-
-
-
 Begin nu een nieuw programma! Weet je nog hoe dat moet? 
 
 Noem het programma: 'les2-b-deel-2'
@@ -136,7 +132,6 @@ Deze les wordt afgetekend als:
 Laat de regels commentaar die je al had staan. 
 
 Print eronder nu een verhaal over een dier. Je mag zelf bedenken waar het verhaal over gaat.
-
 
 ------
 

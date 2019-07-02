@@ -1,6 +1,6 @@
-<img src="../../img/Logo cs-certificate.jpg" style="zoom:20%" align="right" />
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:9%"/>
 
-## Les 1 Werkblad a 
+## Module Nederlands Les 1 Werkblad a 
 
 ### Printen
 
@@ -23,8 +23,6 @@ Een print() opdracht print een woord uit, als het tussen aanhalingstekens staat.
 ```python
 print('Goedemorgen')
 ```
-
-
 
 1) Welke van deze print() opdrachten print **Hallo** uit? 
 
@@ -62,9 +60,6 @@ Schrijf de code over in je schrift.
 
 ```___________________```
 
-
- <div style="page-break-after: always;"></div>
-
 **Meerdere woorden printen**
 
 Een print() kan ook meerdere woorden printen. Dan moeten er komma's tussen de woorden. Let goed op, ieder woord moet nog steeds tussen twee aanhalingstekens.
@@ -77,7 +72,7 @@ print('Goedemorgen', 'allemaal')                      > Goedemorgen allemaal
 
 Op de plek van de komma komt een spatie in de uitvoer. 
 
-![image-20190126194646749](/Users/Felienne/Library/Application Support/typora-user-images/image-20190126194716104.png){ width=50% }
+![image-20190126194646749](../../img/image-20190126194716104.png){ width=50% }
 
 
 Python stopt met printen bij een aanhalingsteken. 
@@ -172,7 +167,7 @@ Schrijf drie codes voor zinnetjes in je schrift.
 
 Soms geeft Python een foutmelding. 
 
-![image-20190126194646749](/Users/Felienne/Library/Application Support/typora-user-images/image-20190126194646749.png){ width=50% }
+![image-20190126194646749](../../img/image-20190126194646749.png){ width=50% }
 
 
 
@@ -204,9 +199,6 @@ print(Python')
 ```python
 print('Python'
 ```
-
-
- <div style="page-break-after: always;"></div>
 
 2) Schrijf zelf nog 3 andere, *verkeerde* codes in je schrift. 
 

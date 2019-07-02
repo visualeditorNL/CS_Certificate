@@ -1,6 +1,6 @@
-<img src="../../img/Logo cs-certificate.jpg" style="zoom:20%" align="right" />
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:9%"/>
 
-## Les 3 werkblad b
+## Module Nederlands Les 3 werkblad b
 
 ### Opdracht 3b-1) Log in en maak een nieuw programma
 
