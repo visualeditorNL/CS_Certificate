@@ -1,6 +1,6 @@
-<img src="../../img/Logo cs-certificate.jpg" style="zoom:20%" align="right">
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:9%">
 
-## Les 2 werkblad a nakijkmodel
+## Module 2: Kunst Les 2 werkblad a nakijkmodel
 
 ### Even opfrissen
 

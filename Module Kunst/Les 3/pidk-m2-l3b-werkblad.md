@@ -1,4 +1,4 @@
-<img src="../../img/Logo cs-certificate.jpg" style="zoom:20%" align="right">
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:9%">
 
 ### Opdracht 3b-1) Maak twee spirografen
 

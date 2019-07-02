@@ -1,3 +1,5 @@
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:9%">
+
 ### Maak twee spirografen
 
 Maak dit figuur:

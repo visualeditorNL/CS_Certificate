@@ -1,6 +1,6 @@
-<img src="../../img/Logo cs-certificate.jpg"style="zoom:20%" align="right">
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:9%">
 
-## Les 2 werkblad b
+## Module Kunst: Les 2 werkblad b
 
 ### Opdracht 2b-1) Maak een zeshoek met een for-lus 
 
@@ -85,7 +85,7 @@ Deze les wordt afgetekend als:
 
 Dit is een schilderij van een berg (met een beetje fantasie!). Kun jij het namaken met Python? Je moet wel twee lussen gebruiken!
 
-![image-20181207110047621](/Users/Felienne/Library/Application%20Support/typora-user-images/image-20181207110047621.png)
+![image-20181207110047621](../../img/image-20181207110047621.png)
 
 
 

@@ -1,8 +1,8 @@
-<img src="../../img/Logo cs-certificate.jpg"style="zoom:20%" align="right">
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:9%">
 
-## Les 1 werkblad b
+## Module Kunst: Les 1 werkblad b
 
-### Opdracht 2b-1) Teken een vierkant
+### Opdracht 1b-1) Teken een vierkant
 
 Deze les wordt afgetekend als:
 
@@ -12,7 +12,7 @@ Deze les wordt afgetekend als:
 
 
 
-### Opdracht 2b-2) Teken een driehoek
+### Opdracht 1b-2) Teken een driehoek
 
 Deze les wordt afgetekend als:
 
@@ -23,7 +23,7 @@ Gebruik de **zes** codes die je daar hebt opgeschreven om een vierkant te tekene
 
 
 
-### Opdracht 2b-3) Teken een zeshoek 
+### Opdracht 1b-3) Teken een zeshoek 
 
 Deze les wordt afgetekend als:
 
@@ -39,7 +39,7 @@ Je mag ondertussen wel doorwerken aan de rest van de opdrachten.
 ---
  <div style="page-break-after: always;"></div>
 
-### Opdracht 2b-4) Teken een schilderij (extra)
+### Opdracht 1b-4) Teken een schilderij (extra)
 
 Deze les wordt afgetekend als:
 
@@ -59,7 +59,7 @@ Dit is een schilderij van een berg (met een beetje fantasie!)
 
 
 
-### Opdracht 2b-5) Maak een huisje  (extra)
+### Opdracht 1b-5) Maak een huisje  (extra)
 
 Deze les wordt afgetekend als:
 
@@ -71,7 +71,7 @@ Deze les wordt afgetekend als:
 
 ![image-20190318132016472](../../img/image-20190318132016472.png)
 
-###Opdracht 2b-6) Maak een diamant  (extra)
+###Opdracht 1b-6) Maak een diamant  (extra)
 
 Deze les wordt afgetekend als:
 
@@ -84,7 +84,7 @@ Opdracht. Probeer dit na te maken.
 
 
 
-### Opdracht 2b-7) Maak je tekening mooier (extra)
+### Opdracht 1b-7) Maak je tekening mooier (extra)
 
 Deze les wordt afgetekend als:
 

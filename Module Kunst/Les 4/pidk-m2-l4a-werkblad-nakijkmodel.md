@@ -1,12 +1,12 @@
-<img src="../../img/Logo cs-certificate.jpg" style="zoom:20%" align="right">
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:9%">
 
-## Les 4 werkblad a nakijkmodel
+## Module 2: Kunst Les 4 werkblad a nakijkmodel
 
 ### Even opfrissen
 
 1) 
 
-1. <img src="../../img/img/image-20190415170006194.png" style="zoom:50%">
+1. <img src="../../img/image-20190415170006194.png" style="zoom:50%">
 
 2. <img src="../../img/image-20190415165611900.png" style="zoom:50%">
 

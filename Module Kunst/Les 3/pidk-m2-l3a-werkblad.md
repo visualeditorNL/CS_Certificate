@@ -1,6 +1,6 @@
-<img src="../../img/Logo cs-certificate.jpg" style="zoom:20%" align="right">
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:9%">
 
-## Module Kunst les 3 werkblad a 
+## Module 2: Kunst les 3 werkblad a 
 
 ### Meerdere figuren
 

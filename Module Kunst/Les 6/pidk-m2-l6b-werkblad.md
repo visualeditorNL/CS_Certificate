@@ -1,10 +1,10 @@
-### Opdracht 6b-1) Maak je tekening!
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:9%">
+
+### Eindopdracht Opdracht 6b-1) Maak je tekening!
 
 Je hebt de afgelopen weken een hoop geleerd. Nu is het tijd om een mooie tekening te maken. 
 
 **Je krijgt hiervoor een cijfer.**  
-
-**Lever een link naar je programma in voor vrijdag 13:00 via Magister.**
 
 Deze dingen moeten in je programma zitten voor een voldoende:
 

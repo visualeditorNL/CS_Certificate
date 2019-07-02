@@ -1,3 +1,5 @@
+<img src="../img/Logo cs-certificate.jpg" style="zoom:9%">
+
 # Module 2: Kunst
 
 ## Instructie voor de leerkracht 

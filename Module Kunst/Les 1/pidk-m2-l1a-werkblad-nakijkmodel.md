@@ -1,6 +1,6 @@
-<img src="../../img/Logo cs-certificate.jpg"style="zoom:20%" align="right">
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:9%">
 
-## Les 1 werkblad a nakijkmodel
+## Module 2: Kunst Les 1 werkblad a nakijkmodel
 
 ### Tekenen en code
 
@@ -34,9 +34,6 @@
 Hier komt een spirograaf uit, met een hoek van 65 graden en 11 herhalingen krijg je bijvoorbeeld onderstaand:
 
 <img src="../../img/image-20190415150322353.png" style="zoom:50%">
-
-
-<div style="page-break-after: always;"></div>
 
 2)
 

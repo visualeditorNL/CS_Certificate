@@ -1,6 +1,6 @@
-<img src="../../img/Logo cs-certificate.jpg" style="zoom:20%" align="right">
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:9%">
 
-## Les 4 werkblad b
+## Module 2: Kunst Les 4 werkblad b
 
 ### Opdracht 4b-1) Maak twee vierkanten met 1 variabele
 
@@ -26,7 +26,6 @@ Deze les wordt afgetekend als:
 - Je een variabele gebruikt voor het **aantal hoeken**
 
 ![image-20190403203106093](../../img/image-20190403203106093.png)
- <div style="page-break-after: always;"></div>
 ### Opdracht 4b-3) Maak twee spirografen met 2 variabelen
 
 Deze les wordt afgetekend als:
@@ -56,7 +55,7 @@ Deze les wordt afgetekend als:
 - Je een variabele gebruikt voor het **aantal hoeken**
 - Je een variabele hebt gebruikt voor de **grootte** van de driehoeken
 
-![image-20190329212013611](/Users/Felienne/Library/Application%20Support/typora-user-images/image-20190329212013611.png)
+![image-20190329212013611](../../img/image-20190329212013611.png)
 
 ### Opdracht 4b-6) Maak twee vierkanten, eentje klein (3 variabelen)
 

@@ -1,3 +1,7 @@
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:9%">
+
+## Module 2: Kunst Les 5 Werkblad a
+
 ### Kleuren en plannen
 
 **Even opfrissen**

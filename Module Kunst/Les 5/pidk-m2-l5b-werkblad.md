@@ -1,3 +1,7 @@
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:9%">
+
+## Module 2: Kunst Les 5 werkblad b
+
 ### Opdracht 5b-1) Maak twee vierkanten met 1 variabele
 
 Deze les wordt afgetekend als:

@@ -1,6 +1,6 @@
-<img src="../../img/Logo cs-certificate.jpg" style="zoom:20%" align="right">
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:9%">
 
-## Module Kunst les 2 werkblad a
+## Module 2:  Kunst les 2 werkblad a
 
 ### Herhalen met Turtle
 
@@ -27,8 +27,6 @@ Je moet beide opdrachten vier keer gebruiken. Schrijf de codes op volgorde op in
 7. ...
 8. ...
 
- <div style="page-break-after: always;"></div>
-
 2) Teken nu een driehoek
 
 ![image-20190322135525607](../../img/image-20190322135525607.png)
@@ -52,8 +50,6 @@ Zet jij nu deze opdrachten bij de juiste plekken in de tekening? Je moet allebei
 4. ...
 5. ...
 6. ...
-
-<div style="page-break-after: always;"></div>
 
 3) Nog wat sommen met hoeken
 
