@@ -1,7 +1,6 @@
-<img src="/Users/lisa/Python_in_de_klas/Module-Aardrijkskunde/Les 1/Logo cs-certificate.jpg"
-style="zoom:20%" align="right">
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:9%">
 
-### Module Aardrijskunde Les 2 Werkblad a
+## Module 3: Aardrijskunde - Les 2 Werkblad a
 
 ### Data inlezen in Python
 
@@ -15,7 +14,7 @@ In deze lessen ga jij zelf data over aardbevingen door Python laten inlezen. De 
 **Even opfrissen!**
 Vorige week hebben we geleerd hoe we de data van een aardbeving kunnen lezen. 
 
-<img src="/Users/lisa/Python_in_de_klas/Module-Aardrijkskunde/Les 1/data.png"
+<img src="../../img/data.png"
 style="zoom:70%">
 
 1) Schrijf per kolom op wat dit vertelt over de aardbeving
@@ -50,7 +49,7 @@ Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
 
 We gaan nu oefenen met het inlezen van data. Onderstaand is wederom een stukje van de data die in de target_url te vinden is. 
 
-<img src="/Users/lisa/Python_in_de_klas/Module-Aardrijkskunde/Les 1/data.png"
+<img src="../../img/data.png"
 style="zoom:70%">
 
 ```python
@@ -71,7 +70,7 @@ Schrijf de goede code over in je schrift!
 ```
 
 Als je opdracht 1 goed hebt gemaakt, heb je python nu een hele lange lijst met data laten inlezen, dat ziet er ongeveer uit zoals hieronder. 
-![image-20190520175053015](/Users/lisa/Python_in_de_klas/Module-Aardrijkskunde/Les 2/data_ingelezen.png)
+![image-20190520175053015](../../img/data_ingelezen.png)
 2) Hoe zorgen we nu dat we alleen de eerste regel inlezen? Maak de code af en schrijf het over in je schrift.
 
 ```python
@@ -91,7 +90,7 @@ Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
 **Data in stukjes hakken**
 
 We hebben nu de data van de eerste aardbeving ingelezen 
-![image-20190520175640059](/Users/lisa/Python_in_de_klas/Module-Aardrijkskunde/Les 2/data_regel_0_ingelezen.png)
+![image-20190520175640059](../../img/data_regel_0_ingelezen.png)
 
 1) Maak de code hieronder af zodat de data in opgehakte stukjes in een lijst komt te staan.
 

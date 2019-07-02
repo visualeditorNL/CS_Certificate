@@ -1,6 +1,6 @@
-<img src="../../img/Logo cs-certificate.jpg" style="zoom:20%" align="right">
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:9%">
 
-### Module Aardrijskunde Les 3 Werkblad b
+## Module 3: Aardrijskunde - Les 3 Werkblad b
 
 Voor deze opdrachten gebruiken we een 'template'. In deze template staat wat code voor je klaar zodat je sneller aan de slag kunt met de opdrachten. 
 Deze template kun je 'forken', dat is een soort kopieren.
@@ -22,7 +22,7 @@ Deze opdracht wordt afgetekend als:
 
 - Je het datatype van de magnitude uitprint
 
-  **Opdracht**
+**Opdracht**
 
 De target_url staat voor je klaar in de template van de opdracht. Zorg dat python de data uit dit bestand gaat inlezen en print alleen de magnitude en het datatype van de magnitude uit.
 

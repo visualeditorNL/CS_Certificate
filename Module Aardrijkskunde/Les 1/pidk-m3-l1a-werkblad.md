@@ -1,7 +1,6 @@
-<img src="../../img/Logo cs-certificate.jpg"
-style="zoom:20%" align="right">
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:9%">
 
-## Module Aardrijskunde Les 1 Werkblad a
+## Module 3: Aardrijskunde - Les 1 Werkblad a
 
 ### Handmatig aardbevingen plotten
 

@@ -1,7 +1,6 @@
-<img src="/Users/lisa/Python_in_de_klas/Module-Aardrijkskunde/Les 1/Logo cs-certificate.jpg"
-style="zoom:20%" align="right">
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:9%">
 
-### Module Aardrijskunde Les 2 Werkblad b
+## Module 3: Aardrijskunde - Les 2 Werkblad b
 
 Voor deze opdrachten gebruiken we een 'template'. In deze template staat wat code voor je klaar zodat je sneller aan de slag kunt met de opdrachten. 
 Deze template kun je 'forken', dat is een soort kopieren.
