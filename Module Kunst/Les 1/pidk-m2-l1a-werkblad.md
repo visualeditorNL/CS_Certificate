@@ -54,7 +54,7 @@ Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 1) Ga terug naar het vierkant dat je hebt getekend in je schrift. 
 Zet deze nummers erbij, op dezelfde plekken.
 
-![image-20190404092756483](../../img/image-20190404092756483.png)
+![image-20190404092756483](../../img/image-20181207103857118.png)
 
 Nu gaan we Pythoncodes koppelen aan de stukjes van de tekening? Welke code hoort bij welk stukje. Bijv bij 1 de rechte lijn, die maak je met `pen.forward(100)`. Bij 2 draaien we om, dus daar hoort `pen.left(90)`. Maak jij de codes af?
 
